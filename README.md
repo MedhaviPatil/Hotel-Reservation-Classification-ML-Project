@@ -8,3 +8,15 @@ kaggle link : https://www.kaggle.com/datasets/ahsan81/hotel-reservations-classif
 1. Pandas
 2. Matplotlib
 3. Seaborn
+
+# Data Analysis
+1. Univariate analysis
+2. Bivariate analysis
+
+# Machine Learning
+In this dataset I have used many popular ML algorithms
+1. Logistic regression
+2. Decision Tree
+3. Random Forest Classifier
+4. Support vector classifier
+5. K-Nearest Neighbor Classifier
